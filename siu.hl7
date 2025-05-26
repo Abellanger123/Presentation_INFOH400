@@ -1,0 +1,12 @@
+MSH|^~\&|ULTRAGENDA PRO|ULTRAGENDA|||20070402145607||SIU^S12|633111225154062500|P|2.4|||AL|NE||ASCII
+SCH||5221716^5221716^5292046||||||68725^HG^^PSHG blood test|||^^M15^20070402141500|||||18497405^HALL^JACK^^^Dr.^^^18497405860 |02/5273202^^PH|3rd AVE, 36^^SIDNEY^^2000^AUSTRALIA||1614^SMITH^KATE^^^^^^^^^^^7224|||||WALK IN^^^A
+PID||620126FB01|620126FB01||KWON^SUN^^^MME||19500126000000|F|||MARKET PLACE 70 1A^^HONOLULU^^10200^USA||0477279538^^PH||FR|S|||50012612258 |||||||||||0
+PV1||O
+OBX|1|ST|^Request for possession of samples?||No||||||F
+OBX|2|ST|^Rv taken in consultation||No||||||F
+OBX|3|ST|^Rv taken in hospital||No||||||F
+OBX|4|ST|^Telephone appointment?||No||||||F
+OBX|5|ST|^Paperless||No||||||F
+RGS|1|A|5221716
+AIG|1|A|1184^Blood samples HGeneral^^^PSangHG||50^Samples^^RDVULB|||||||||WALK IN
+AIL|1|A|HG sample^HG samples^^^^^ERA^^ERASME HOSPITAL|||||||||WALK IN
